@@ -1,0 +1,422 @@
+IT SYSTEM,DEVELOPER(S),TYPE,LICENSE,WEBSITE,WRITTEN IN,LANGUAGE(S)
+Chrome,Google Inc.,Web browser/ mobile browser,Freeware,google.com/chrome/browser/,C++,47
+Firefox,Mozilla Corporation,Web browser/ mobile browser,MPL 2.0,mozilla.org/firefox,C++/ JavaScript/ HTML/ C/ Rust,91
+Internet Explorer,Microsoft,Web browser/ mobile browser,Proprietary,microsoft.com/ie,NA,95
+Opera,Opera Software,Web browser/ mobile browser,Freeware,www.opera.com/compute,C++,42
+Safari,Apple Inc.,Web browser/ mobile browser,Freeware,apple.com/safari,C++/ Objective-C and Swift,NA
+Edge,Microsoft,Web browser/ mobile browser,Proprietary,microsoftedge.com,NA,NA
+Android,Google Inc.,Mobile Operating System,Apache License 2.0,android.com,Java (UI)/ C (core)/ C++,NA
+BlackBerry OS,BlackBerry Limited,Mobile Operating System,Proprietary,ca.blackberry.com/software/smartphones/blackberry-10-os.html,C/ C++/ Qt,NA
+iOS,Apple Inc.,Mobile Operating System,Proprietary,https://www.apple.com/ios/,C/ C++/ Objective-C/ Swift,40
+Windows,Microsoft,Operating System,Proprietary,windows.microsoft.com,NA,137
+Windows Mobile,Microsoft,Mobile Operating System,Proprietary,www.microsoft.com/windowsmobile/default.mspx,NA,NA
+Windows Phone,Microsoft,Mobile Operating System,Proprietary,www.windowsphone.com/,C/ C++,130
+Windows 10 Mobile,Microsoft,Mobile Operating System,Proprietary,microsoft.com/mobile/windows10,NA,NA
+macOS,Apple Inc.,Operating System,Proprietary,www.apple.com/macos,C/C++/Objective-C/Swift,34
+Ubuntu,Canonical Ltd,Operating System,GNU General Public License,www.ubuntu.com,NA,55
+Gradle,Hans Dockter/ Adam Murdoch/ Szczepan Faber/ Peter Niederwieser/ Luke Daley/ Rene Gröschke/ Daz DeBoer/ Steve Appling,Build tool,Apache License 2.0,gradle.org,Java/ Groovy,NA
+Elasticsearch,Shay Banon,Search and index,Apache License 2.0,elastic.co/products/elasticsearch,Java,NA
+Office,Microsoft,Office suite,Proprietary,www.office.com,NA,102
+Acrobat,Adobe Systems,Desktop publishing,Proprietary,Desktop publishing,NA,NA
+Git,Junio Hamano and others,Version control,GNU General Public License,git-scm.com,C/ Shell/ Perl/ Tcl/ Python,1
+Visual Studio,Microsoft,Integrated development environment (IDE),Freemium,www.visualstudio.com,C++ and C#,NA
+WordPress,WordPress Foundation,Blog software/ Content Management System/ Content Management Framework,GNU General Public License,wordpress.org,PHP,NA
+Eclipse,Eclipse Foundation,Programming tool/ integrated development environment (IDE),Eclipse Public,www.eclipse.org,Java,44
+CorelDraw,Corel,Vector graphics editor,Proprietary,www.coreldraw.com,C++/ C#,NA
+Windows Media Player,Microsoft,Media player,Proprietary,https://www.microsoft.com/en-in/download/windows-media-player-details.aspx,NA,NA
+Flash Player,Adobe Systems,Run-time environment/ Media player/ Browser extension,Freeware,www.adobe.com/products/flashplayer.html,C++,12
+Outlook,Microsoft,Personal information manager,Proprietary,www.microsoft.com/outlook,NA,NA
+OpenOffice.org,Oracle Corporation,Office suite,GNU Lesser General Public License (LGPL),www.openoffice.org,C++/ Java,121
+Apache OpenOffice,Apache Software Foundation,Office suite,Apache License 2.0,www.openoffice.org,C++/ Java,41
+SolidWorks,Dassault Systèmes,CAD/ CAE,Proprietary,www.solidworks.com,NA,NA
+Zune software,Microsoft,Utility software,Proprietary,https://www.microsoft.com/en-in/download/details.aspx?id=27163,NA,NA
+Yahoo! Messenger,Yahoo!,Instant messaging client/ Internet phone,Proprietary,messenger.yahoo.com,NA,NA
+Xcode,Apple Inc.,Integrated development environment (IDE),Freeware,developer.apple.com/xcode/,NA,NA
+WebOS,LG Electronics,Mobile Operating System,Apache License,www.openwebosproject.org,NA,NA
+TrueCrypt,TrueCrypt Foundation,Disk encryption software,TrueCrypt License v 3.1,www.truecrypt.org,C/ C++/ Assembly,38
+Silverlight,Microsoft,Application framework/ run-time environment/ multimedia framework,Freeware,microsoft.com/silverlight,NA,NA
+OpenBSD,The OpenBSD Project,Operating System,BSD,openbsd.org,Primarily C/ assembly/ Perl/ Makefile/ and KornShell,NA
+Qt,Qt Company,Operating System,Qt Commercial License,www.qt.io,C++,NA
+openSUSE,openSUSE Project,Operating System,GNU General Public License,opensuse.org,NA,NA
+Thunderbird,Mozilla Corporation,Email client/ news client/ feed reader,MPL 2.0,mozilla.org/thunderbird,C/ C++/ JavaScript/ CSS/ XUL/ XBL,NA
+Fedora,Fedora Project,Operating System,Freeware,getfedora.org,NA,NA
+GIMP,The GIMP Development Team,Raster graphics editor,GNU General Public License,www.gimp.org,C/ GTK+,NA
+Linux Mint,Clément Lefèbvre/ Jamie Boo Birse/ Kendall Weaver/ and community,Operating System,GNU General Public License,www.linuxmint.com,NA,NA
+MediaWiki,Wikimedia Foundation,Wiki,GNU General Public License,mediawiki.org,PHP,NA
+FreeBSD,The FreeBSD Project,Operating System,BSD,www.freebsd.org,NA,NA
+Debian,Debian Project,Operating System,DFSG-compliant,www.debian.org,NA,NA
+.NET Framework,Microsoft,Software framework,Proprietary,microsoft.com/net,NA,NA
+AutoCAD,Autodesk,CAD,Trialware,www.autodesk.com/products/autodesk-autocad/overview,NA,14
+Memcached,Danga Interactive,Distributed memory caching system,BSD,www.memcached.org,NA,NA
+Tomcat,Apache Software Foundation,Servlet container/ HTTP web server,Apache License 2.0,tomcat.apache.org,NA,NA
+BitTorrent,BitTorrent/ Inc.,BitTorrent client,Ad-supported freemium,bittorrent.com,NA,66
+cURL,Daniel Stenberg,FTP client / HTTP client,MIT/X derivate license,curl.haxx.se,C,NA
+Apache HTTP Server,Apache Software Foundation,Web server,Apache License 2.0,httpd.apache.org,C/ XML,NA
+PostgreSQL,PostgreSQL Global Development Group,ORDBMS,PostgreSQL License,postgresql.org,C,NA
+OpenSSL,The OpenSSL Project,Security library,Apache License 1.0,www.openssl.org,C/ assembly,NA
+Cassandra,Apache Software Foundation,Database,Apache License 2.0,cassandra.apache.org,Java,NA
+Kafka,Apache Software Foundation,Stream processing/ Message broker,Apache License 2.0,kafka.apache.org,Scala/ Java,NA
+R,R Core Team,Programming language,GNU General Public License,www.r-project.org,NA,NA
+Hadoop,Apache Software Foundation,Distributed file system,Apache License 2.0,hadoop.apache.org,NA,NA
+Spark,Apache Software Foundation,Data analytics/ machine learning algorithms,Apache License 2.0,spark.apache.org,Scala/ Java/ Python/ R,NA
+Pig,Apache Software Foundation,Data analytics,Apache License 2.0,pig.apache.org,NA,NA
+MariaDB,MariaDB Corporation,RDBMS,GNU General Public License,https://mariadb.org/,NA,NA
+Blender,Blender Foundation,3D computer graphics software,GNU General Public License,blender.org,C/ C++/ and Python,NA
+Joomla,The Joomla Project Teams,Content management framework/ Content management system,GNU General Public License,www.joomla.org,PHP,NA
+GNOME,The GNOME Project,Desktop environment,GNU General Public License,www.gnome.org,C/ C++/ Vala/ Python/ JavaScript,40
+Gentoo Linux,Gentoo Foundation,Operating System,Free software,www.gentoo.org,NA,NA
+Kodi,XBMC Foundation,Media player software/ smart TV platform/ digital media player/ digital video recorder,GNU General Public License,kodi.tv,NA,12
+Inkscape,NA,Vector graphics editor,GNU General Public License,inkscape.org,C++ with gtkmm/ Python,66
+jQuery,jQuery Team,JavaScript library,MIT license,jquery.com,JavaScript,
+KDE,Matthias Ettrich,Community,GNU Lesser General Public License (LGPL),kde.org,NA,NA
+KDE Frameworks,KDE,System libraries/ Software frameworks,GNU Lesser General Public License (LGPL),api.kde.org/frameworks,C++ (Qt),NA
+KDE Applications Bundle,KDE,Application_software,GNU Lesser General Public License (LGPL),kde.org,C++/ QML,NA
+Calligra Suite,KDE,Graphic art and office suite,GNU Lesser General Public License (LGPL),www.calligra.org,C++ (Qt/ KDE Platform),31
+NetBSD,The NetBSD Foundation,Operating System,2-clause BSD license,netbsd.org,NA,NA
+OpenStack,NA,Cloud computing,Apache License 2.0,openstack.org,Python,NA
+Perl,Larry Wall,Programming language,GNU General Public License,www.perl.org,NA,NA
+BeOS,Be Inc.,Operating System,Proprietary,www.beincorporated.com/,NA,NA
+ownCloud,ownCloud GmbH,Online storage/ data synchronization,GNU Affero General Public License,owncloud.org,PHP/ JavaScript,NA
+Subversion,Apache Software Foundation,Revision control,Apache License 2.0,subversion.apache.org/,C,NA
+Maven,Apache Software Foundation,Build tool,Apache License 2.0,maven.apache.org,NA,NA
+ILWIS,52°North ILWIS Community,Geographic information system,GNU General Public License,52north.org/downloads/ilwis,C++,NA
+SeaMonkey,SeaMonkey Council,Internet suite,MPL 2.0,www.seamonkey-project.org,C++/ XUL/ XBL/ JavaScript,26
+After Effects,Adobe Systems,Visual effects/ Motion graphics/ Compositing/ Computer animation,Trialware,www.adobe.com/products/aftereffects,C++,NA
+PowerDVD,CyberLink,Media player,Proprietary,www.cyberlink.com/products/powerdvd/overview_en_US.html,NA,12
+PowerDirector,CyberLink,Video editing software,Proprietary,www.cyberlink.com/products/powerdirector-ultra/features_en_US.html,NA,NA
+OpenDaylight,Open Source project under The Linux Foundation,NA,Freeware,http://www.opendaylight.org,NA,NA
+ONOS,Open Source project under The Linux Foundation,NA,Freeware,www.onosproject.org,NA,NA
+SpiderMonkey,Mozilla Corporation,JavaScript engine,MPL 2.0,developer.mozilla.org/en/SpiderMonkey,C/C++,NA
+AIR,Adobe Systems,Runtime environment,Proprietary,www.adobe.com/products/air/,NA,NA
+Lightspark,Alessandro Pignotti,Multimedia,GNU Lesser General Public License (LGPL),lightspark.github.io,C++,NA
+Norton 360,Symantec Corporation,Antivirus software/ Personal Firewall and backup,Trialware,www.symantec.com/norton360,NA,NA
+LibreSSL,The OpenBSD Project,Security library,Apache License 1.0,www.libressl.org,C and assembly,NA
+MatrixSSL,INSIDE Secure Corp.,Security library,GNU General Public License,www.matrixssl.org,C,NA
+LyX,The LyX Team,Document processor,GNU General Public License,www.lyx.org,C++/ Qt 5,NA
+Pages,Apple Inc.,Word processor,Proprietary,apple.com/mac/pages,NA,NA
+StarOffice,Oracle Corporation,Office suite,Trialware,www.staroffice.com,NA,NA
+vBulletin,vBulletin Solutions/ Inc.,Forum software,Proprietary,www.vbulletin.com,PHP,2
+UBB.threads,UBBSystems/ LLC,Discussion forum,Proprietary,http://www.ubbcentral.com/,PHP,
+SMF Software,Simple Machines,Internet forum,Open Source,www.simplemachines.org,PHP,NA
+phpBB,phpBB Limited,Internet forum,GNU General Public License,phpbb.com,PHP,54
+Bugzilla,Mozilla Corporation,Bug tracking system,MPL 2.0,www.bugzilla.org,Perl,NA
+FogBugz,Fog Creek Software,Bug tracking system,GNU General Public License,fogcreek.com,NA,NA
+GLPI,Teclib,IT asset management/ Issue tracking system/ Project Management & Service desk,GNU General Public License,www.glpi-project.org,PHP,NA
+OTRS,OTRS AG,Issue tracking system,Affero General Public License/ version 3,www.otrs.com,Perl/JavaScript,32
+JIRA,Atlassian/ Inc.,Bug tracking system/ project management software,Proprietary,atlassian.com/software/jira,Java,NA
+Django,Django Software Foundation,Web framework,3-clause BSD,www.djangoproject.com,Python,NA
+JavaScript,Mozilla Corporation,Scripting language,MPL 2.0,developer.mozilla.org/en-US/docs/Web/JavaScript,NA,NA
+VMware Fusion,VMware/ Inc.,Hypervisor,Proprietary,www.vmware.com/products/fusion.html,C/ x86 Assembly/ C++ (GUI),NA
+VMware Server,VMware/ Inc.,Hypervisor,Freeware,vmware.com/products/server/,,NA
+VMware Workstation,VMware/ Inc.,Hypervisor,Freeware,www.vmware.com/products/workstation/,F#/ C/ C++,NA
+VMware Workstation Player,VMware/ Inc.,Hypervisor,Freemium,www.vmware.com/products/player/playerpro-evaluation.html,NA,NA
+Xen Project,Linux Foundation,Hypervisor,GNU General Public License,www.xenproject.org,NA,NA
+XenServer,Linux Foundation,Hypervisor,GNU General Public License,www.xenproject.org,NA,NA
+PHP,The PHP Development Team/ Zend Technologies,Scripting language,PHP License,php.net,C,NA
+ASP.NET,Microsoft,Web framework,Apache License 2.0,asp.net,.NET,NA
+ASP.NET Core,Microsoft,Web framework,Apache License 2.0,asp.net,.NET,NA
+Scala,Programming Methods Laboratory of École Polytechnique Fédérale de Lausanne,Programming language,3-clause BSD,www.scala-lang.org,NA,NA
+Lotus Symphony,IBM,Office suite/ web browser,Proprietary,symphony.lotus.com,NA,NA
+IBM Connections,IBM,Online social networking tools,Proprietary,http://www-03.ibm.com/software/products/en/conn,NA,NA
+IBM Sametime,IBM,Instant messaging/ web conferencing/ unified communications,Proprietary,www.ibm.com/sametime,NA,NA
+Lotus Notes,IBM,Collaborative software/ Personal information manager/ Email client,Proprietary,www-03.ibm.com/software/products/en/ibmnotes,Java/Eclipse (9.x Standard) and C++ (9.x Basic and previous versions),28
+Ableton Live,Ableton,Digital Audio Workstation,Proprietary,www.ableton.com,C++,NA
+Cubase,Steinberg,Digital Audio Workstation,Proprietary,www.steinberg.net/en/products/cubase,C/C++,9
+Lotus Organizer,IBM,Personal information manager,Proprietary,www.ibm.com,NA,NA
+LilyPond,David Kastrup/ Werner Lemberg/ Han-Wen Nienhuys/ Jan Nieuwenhuizen/ Carl Sorensen/ Janek Warchoł/ et. al,Music software/ scorewriter,GNU General Public License,lilypond.org,C++/ Scheme/ Metafont/ PostScript/ Python,9
+QuickTime,Apple Inc.,Multimedia framework,Freemium,apple.com/quicktime,NA,NA
+MainStage,Apple Inc.,MIDI sequencer/ Virtual instrument host,Proprietary,www.apple.com/mainstage/,NA,6
+REAPER,Cockos,MIDI sequencer/ Digital Audio Workstation,Proprietary,www.reaper.fm,C/ C++/ Assembly language,NA
+Reason,Propellerhead Software,Digital Audio Workstation,Proprietary,www.propellerheads.se/reason,C++/ Objective-C (Mac)/ Lua,NA
+VirtualDJ,Atomix Productions,Digital DJ Software,Proprietary,http://www.virtualdj.com/,NA,NA
+Logic Pro,Apple Inc.,MIDI sequencer/ Digital Audio Workstation,Proprietary,https://itunes.apple.com/in/app/logic-pro-x/id634148309?mt=12&ign-itsct=634148309-634148309&ign-itscg=0176&ign-mpt=uo%3D4,NA,6
+FrontPage,Microsoft,HTML editor,Proprietary,www.microsoft.com/office/frontpage,NA,NA
+Solr,Apache Software Foundation,Search and index,Apache License 2.0,lucene.apache.org/solr/,Java,NA
+Wowza Streaming Engine,Wowza Media Systems,Enterprise and carrier class server software,Proprietary,www.wowza.com/products/streaming-engine/,NA,NA
+Sorenson Squeeze,Sorenson Media/ Inc.,Video Compression,Proprietary,www.sorensonmedia.com,NA,NA
+SourceSafe,Microsoft,Revision control,Proprietary,www.microsoft.com/,NA,NA
+GroupWise,Novell,Messaging Collaboration,Proprietary,novell.com/groupwise,NA,NA
+Node.js,Node.js Developers,Event-driven networking,MIT,nodejs.org,C/ C++/ JavaScript,NA
+Bioconductor,Open Source project,Bioinformatics,Artistic License 2.0,www.bioconductor.org,NA,NA
+Ruby,Yukihiro Matsumoto/ et al.,Programming language,GNU General Public License,www.ruby-lang.org,C,NA
+DokuWiki,Andreas Gohr/ et al.,Wiki,GNU General Public License,www.dokuwiki.org,PHP,50
+UseModWiki,Clifford Adams/ Markus Lude,Wiki,GNU General Public License,usemod.com,Perl,NA
+Liferay Portal,Liferay Inc,Enterprise portal/ content management framework/ content management system/ community,GNU Lesser General Public License (LGPL),www.liferay.com,Java,NA
+Trac,Edgewall Software,Project management software/ bug tracking system,Modified BSD license,rac.edgewall.org,Python,48
+iDempiere,Community Development,ERP/ CRM/ SCM,GNU General Public License,www.idempiere.org,Java,15
+LedgerSMB,Community Development,Accounting/ ERP/ CRM,GNU General Public License,ledgersmb.org,Perl/ PL/pgSQL,NA
+Odoo,Odoo S.A.,ERP/ CRM/ Accounting/ CMS/E-commerce,GNU General Public License,www.odoo.com,Python/ JavaScript/ XML,NA
+Cinnamon,Linux Mint team,Desktop environment,GNU General Public License,cinnamon-spices.linuxmint.com,C/ JavaScript/ and Python,NA
+WiX,.NET Foundation,Software development tools,Microsoft Reciprocal License,wixtoolset.org,C++/ C#,NA
+Sakai,Community Development,Course Management System,Educational Community License,www.sakaiproject.org,Java,19
+NetWeaver Process Integration,SAP SE,Enterprise application integration,GNU General Public License,www.sap.com,NA,NA
+OpenHPC,Community Development,Cluster software,Apache License 2.0,openhpc.community,NA,NA
+Foreman,Paul Kelly and Ohad Levy,Systems management,GNU General Public License,www.theforeman.org,Ruby and JavaScript,4
+Ext JS,Community Development,JavaScript library,GNU General Public License,sencha.com/products/extjs/,NA,NA
+3D Topicscape,3D-Scape Limited,PIM mind-mapping concept mapping,Commercial,www.topicscape.com,NA,NA
+Sunbird,Mozilla Corporation,Personal information manager,MPL 2.0,www.mozilla.org/en-US/projects/calendar/,C++/ XUL/ XBL/ JavaScript,
+Directory Opus,GPSoftware,File manager,Proprietary,www.gpsoft.com.au,NA,NA
+ForkLift,BinaryNights/ LLC,File manager,Proprietary,binarynights.com/forklift/,Swift,6
+Compiere,Consona Corporation,ERP/ CRM,GNU General Public License,www.compiere.com,NA,NA
+WebSphere Portal,IBM,Enterprise web portal software,Proprietary,http://www-03.ibm.com/software/,Java,NA
+Magnolia,Magnolia International Ltd,Content management system,GNU General Public License,www.magnolia-cms.com,Java,NA
+Clojure,Rich Hickey,Programming language,Eclipse Public License,clojure.org,NA,NA
+CUBRID,Naver Search Solutions,RDBMS,GNU General Public License,cubrid.org,C,1
+Riak,Basho Technologies,NoSQL database/ cloud storage,Apache License 2.0,basho.com/products/#riak,Erlang,NA
+Exact Audio Copy,Andre Wiethoff,CD ripper,Proprietary,exactaudiocopy.de,NA,NA
+Deckadance,Stanton Magnetics,DJ console and mixing,Crippleware,www.stantondj.com/deckadance-2.html,NA,NA
+Audition,Adobe Systems,Digital Audio Workstation,Trialware,adobe.com/products/audition,NA,NA
+Audiotool,dimensional GmbH,Digital Audio Workstation,GNU General Public License,www.audiotool.com,ActionScript/ Scala,NA
+FL Studio,Image-Line Software,Digital Audio Workstation,Crippleware,www.image-line.com,Delphi,2
+Mixcraft,Acoustica/ Inc.,Digital Audio Workstation,Proprietary,www.acoustica.com/mixcraft,NA,NA
+Studio One,PreSonus Software/ Ltd.,Digital Audio Workstation,Proprietary,studioone.presonus.com,NA,NA
+OpenBroadcaster,OpenBroadcaster,Live streaming Broadcast automation,GNU General Public License,openbroadcaster.com,Python/ PHP/ JavaScript/ jQuery,6
+RadioBOSS,DJSoft.Net,Radio automation,Proprietary,www.djsoft.net,NA,13
+Rhyme Genie,Idolumic,Music,Proprietary,www.rhymegenie.com,NA,NA
+Praat,Paul Boersma and David Weenink/ from the Institute of Phonetic Sciences - University of Amsterdam.,Science,GNU General Public License,www.praat.org/,C/C++,1
+MuseScore,Werner Schweer/ Nicolas Froment/ Thomas Bonte/ and others,Scorewriter,GNU General Public License,www.musescore.org,C++/ Qt,48
+BIRT Project,Eclipse Foundation,Enterprise Reporting/ Business Intelligence,Eclipse Public License,www.eclipse.org/birt,Java,NA
+LibreOffice,The Document Foundation,Office suite,GNU General Public License,www.libreoffice.org,C++/ Java/ and Python,110
+Crystal Reports,BusinessObjects,Reporting software,Trialware,www.crystalreports.com,NA,9
+icCube,icCube software Sarl,Online analytical processing,GNU General Public License,www.iccube.com,NA,NA
+Ampache,Karl Vollmer,Streaming media/ File manager,Affero General Public License,ampache.org,PHP,NA
+Adobe Media Server,Adobe Systems,Enterprise Server,Proprietary,www.adobe.com/products/flashmediaserver,NA,NA
+Red5,Community Development,Media server,Apache License 2.0,github.com/Red5/red5-server,Java,NA
+SHOUTcast,Radionomy,Streaming media,Registerware,shoutcast.com/BroadcastNow,NA,NA
+Firefox OS,Mozilla Corporation,Mobile Operating System,MPL 2.0,mozilla.org/firefox/os,NA,NA
+Amarok,KDE,Audio player,GNU Lesser General Public License (LGPL),amarok.kde.org/en,C++ (Qt),NA
+Banshee,Novell Inc.,Media player,MIT,banshee.fm,C# (Gtk#),NA
+MediaMonkey,Ventis Media Inc.,Media player,Freemium,www.mediamonkey.com,Delphi/ C,NA
+Rhythmbox,GNOME and community,Audio player,GNU General Public License,wiki.gnome.org/Apps/Rhythmbox,C (GTK+),NA
+DirectX,Microsoft,API,Proprietary,microsoft.com,NA,NA
+OneNote,Microsoft,Notetaking software,Freeware,onenote.com,NA,NA
+Microsoft Money,Microsoft,Personal finance,Proprietary,www.microsoft.com/money/default.aspx,NA,NA
+Access,Microsoft,RDBMS,Trialware,office.microsoft.com/access,NA,NA
+InfoPath,Microsoft,Collaborative software,Trialware,http://www.microsoft.com/en-us/download/details.aspx?id=48734,NA,NA
+Publisher,Microsoft,Desktop publishing software,Trialware,products.office.com/publisher,NA,NA
+JScript,Microsoft,Scripting language,Proprietary,msdn.microsoft.com/library/hbxc2t98.aspx,NA,NA
+msdn.microsoft.com/library/hbxc2t98.aspx,Microsoft,Scripting language,Proprietary,msdn.microsoft.com/library/hbxc2t98.aspx,NA,NA
+Adobe Connect,Adobe Systems,Collaborative software/ Web conferencing,Trialware,www.adobe.com/products/adobeconnect.html,NA,NA
+RoboHelp,Adobe Systems,Technical documentation editor,Proprietary,www.adobe.com/products/robohelp.html,NA,NA
+Enterprise Dynamics,INCONTROL Simulation Solutions,Discrete event simulation software,Commercial,incontrolsim.com,NA,1
+SageMath,Community Development,Computer algebra system,GNU General Public License,www.sagemath.org,Python/ Cython,NA
+XMind,XMind Ltd.,Productivity software/ project management and knowledge management,GNU Lesser General Public License (LGPL),xmind.net,NA,NA
+Open Watcom,Community Development,Integrated development environment,Sybase Open Watcom Public License version 1.0,openwatcom.org,C/ C++,NA
+OpenWrt,OpenWrt Project,Operating System,GNU General Public License,www.openwrt.org,NA,22
+NetBeans,Oracle Corporation,Java IDE,GNU General Public License,netbeans.org,Java,24
+Android Studio,Google Inc.,Integrated development environment,Freeware,developer.android.com/studio/index.html,Java,NA
+JDeveloper,Oracle Corporation,Java IDE,Proprietary,www.oracle.com/technetwork/developer-tools/jdev/overview/index.html,Java,NA
+Brackets,Adobe Systems,Text editor,MIT License,brackets.io,HTML/ CSS and JavaScript,38
+FreeNAS,iXsystems,Computer storage,BSD license,freenas.org,NA,NA
+GhostBSD,Eric Turgeon and GhostBSD Team,Operating System,Simplified BSD,www.ghostbsd.org,NA,NA
+TrueOS,iXsystems,Operating System,BSD license,trueos.org,NA,NA
+pfSense,Rubicon Communications/ LLC,Firewall/ Router,Apache License 2.0,www.pfsense.org,NA,NA
+DragonFly BSD,Matthew Dillon,Operating System,Modified BSD,www.dragonflybsd.org,NA,NA
+Manjaro Linux,Guillaume Benoit/ Philip Müller,Linux distribution,GNU General Public License,manjaro.org,NA,NA
+Finnix,Ryan Finnie,Live CD operating system,GNU General Public License,www.finnix.org,NA,NA
+HandyLinux,thuban/ Starsheep/ arpinux and users community.,Linux distribution,GNU General Public License,handylinux.org,NA,NA
+Knoppix,Klaus Knopper,Live CD operating system,GNU General Public License,www.knopper.net/knoppix/index-en.html,NA,NA
+Tails,The Tails project,Live CD operating system,GNU General Public License,tails.boum.org,NA,NA
+Emmabuntüs,Collectif Emmabuntüs,Live CD operating system,GNU General Public License,emmabuntus.org,NA,NA
+gNewSense,Sam Geeraerts,Operating System,GNU General Public License,www.gnewsense.org,NA,NA
+GNU IceCat,Gnuzilla team,Web browser,MPL,www.gnu.org/software/gnuzilla/,NA,NA
+Damn Small Linux,John Andrews/ et al.,Linux distribution,GNU General Public License,www.damnsmalllinux.org,NA,NA
+Fireball,Indy,Live CD operating system,Free software,fireballiso.sourceforge.net,NA,NA
+Incognito,Community Development,Live CD operating system,GNU General Public License,anonymityanywhere.com/incognito/,NA,NA
+Pentoo,Grimmlin (Michael Zanetta - founder)/ Zero_Chaos (Rick Farina)/ blshkv (Anton Bolshakov)/ Wuodan (Stefan Kuhn)/ Jensp (Jens Pranaitis),Live CD operating system,GNU General Public License,www.pentoo.ch,NA,NA
+Sabayon,Fabio Erculiani and Team,Linux distribution,GNU General Public License,www.sabayon.org,NA,NA
+VidaLinux,Vidalinux Desktop Project,Linux distribution,GNU General Public License,os.vidalinux.org,NA,NA
+Mageia,Community Development,Operating System,GNU General Public License,mageia.org,NA,NA
+Mandriva Linux,Mandriva,Linux distribution,GNU General Public License,www.mandriva.com/en/products-services/mbs/technical-specifications/,NA,NA
+Berry Linux,Yuichiro Nakada,Live CD operating system,GNU General Public License,http://berry-lab.net/,NA,NA
+CentOS,The CentOS Project,Operating System,GNU General Public License,www.centos.org,NA,NA
+Korora,Christopher Smart and Ian Firns,Operating System,GNU General Public License,kororaproject.org,NA,NA
+PCLinuxOS,"Bill Reynolds aka ""Texstar""",Linux distribution,GNU General Public License,www.pclinuxos.com,NA,NA
+Puppy Linux,Larry Short/ Mick Amadio and Puppy community (current),Linux distribution,GNU General Public License,www.puppylinux.com,NA,NA
+SliTaz,The SliTaz GNU/Linux Association,Linux distribution,GNU General Public License,slitaz.org/en,NA,NA
+Tiny Core Linux,Community Development,Linux distribution,GNU General Public License,tinycorelinux.net,NA,NA
+OpenSolaris,Sun Microsystems,Operating System,Common Development and Distribution License (CDDL),opensolaris.org,C,53
+OpenIndiana,illumos Foundation et al.,Operating System,GNU General Public License,www.openindiana.org,C,1
+SkyOS,Robert Szeleney,Operating System,Proprietary,www.skyos.org,NA,NA
+ReactOS,ReactOS Foundation,Operating System,GNU General Public License,www.reactos.org,C/ C++,NA
+eComStation,Serenity Systems/ IBM/ Microsoft/ and other various developers,Operating System,Proprietary,www.ecomstation.com,NA,1
+OpenVMS,Digital Equipment Corporation/ Compaq/ Hewlett-Packard/ VSI,Operating System,Proprietary,www.vmssoftware.com,NA,NA
+FreeDOS,Jim Hall & The FreeDOS team,Operating System,GNU General Public License,www.freedos.org,Assembly Language/ C,3
+TVPaint Animation,TVPaint Developpement,Raster graphics editor/ animation and storyboarding software,Proprietary,www.tvpaint.com,C++,NA
+Edraw Max,EdrawSoft,Diagramming software,Proprietary,www.edrawsoft.com,NA,NA
+Xara Photo & Graphic Designer,Xara Group Ltd,Vector graphics editor,Proprietary,www.xara.com,NA,NA
+Blackmagic Fusion,Blackmagic Design,Compositing software,Freeware,www.blackmagicdesign.com/products/fusion/,NA,NA
+TeamViewer,TeamViewer GmbH,Remote administration/ Web conferencing,Freemium,www.teamviewer.com,NA,NA
+Intel C++ Compiler,Intel,Compiler,Trialware,software.intel.com/c-compiler-android,NA,NA
+Intel Fortran Compiler,Intel,Compiler,Proprietary,software.intel.com/en-us/intel-compilers,NA,NA
+Maple,Waterloo Maple (Maplesoft),Computer algebra system/ Numeric computation,Proprietary,www.maplesoft.com/products/maple/,C/ Java/ Maple,2
+CityEngine,Pascal Mueller/ Simon Haegler/ Andreas Ulmer/ Simon Schubiger/ Matthias Specht/ Stefan Müller Arisona/ Basil Weber,3D computer graphics/ geodesign/ Procedural_generation,Proprietary,www.esri.com/cityengine,NA,NA
+PTC Creo,PTC,CAD design software,Proprietary,ptc.com/products/creo,NA,11
+NX,Siemens PLM Software,CAD/ CAM/ CAE/ PLM,Proprietary,www.plm.automation.siemens.com/en_us/products/nx/index.shtml,NA,NA
+CATIA,Dassault Systèmes,CAD/ CAM/ CAE/ PLM/ 3D,Proprietary,www.3ds.com/products-services/catia/,NA,NA
+ePSXe,ePSXe Software S.L.,Video game console emulator,Proprietary,www.epsxe.com,NA,NA
+Pinguy OS,Antoni Norman,Operating System,GNU General Public License,www.pinguyos.com,NA,NA
+Xubuntu,Community Development,Operating System,GNU General Public License,xubuntu.org,NA,NA
+Dojo Toolkit,Dojo Foundation,JavaScript Library,Modified BSD,http://dojotoolkit.org,JavaScript,NA
+Wicket,Apache Software Foundation,Web application framework,Apache License 2.0,wicket.apache.org,NA,NA
+Google Web Toolkit (GWT),Google Inc.,Ajax framework,Apache License 2.0,www.gwtproject.org,Java,NA
+JavaServer Faces (JSF),Community Development,Web application framework,Apache License 2.0,javaee.github.io/javaserverfaces-spec/,Java,NA
+PrimeFaces,PrimeTek,Java/ JSF/ Ajax,Apache License 2.0,primefaces.org,Java,NA
+TomEE,Apache Software Foundation,Web Application Server,Apache License 2.0,http://tomee.apache.org,Java,NA
+OpenEJB,Apache Software Foundation,EJB Container System,Apache License 2.0,http://openejb.apache.org,Java,NA
+WebLogic Server,Oracle Corporation,Application server,Proprietary,oracle.com,Java,NA
+WildFly,Red Hat,Application server,GNU Lesser General Public License,www.wildfly.org,Java,NA
+Ruby on Rails,David Heinemeier Hansson,Web application framework,MIT License,rubyonrails.org,NA,NA
+Adobe Muse,Adobe Systems,Website builder,Trialware,muse.adobe.com,Flash/ Flex/ AIR,19
+InDesign,Adobe Systems,Desktop publishing,Trialware,adobe.com/products/indesign/,C++,24
+Illustrator,Adobe Systems,Vector graphics editor,Proprietary,adobe.com/products/illustrator/,NA,NA
+Font Folio,Adobe Systems,Computer font,Proprietary,www.adobe.com/products/fontfolio,NA,2
+Dreamweaver,Adobe Systems,HTML editor/ programming tool/ integrated development environment (IDE),Proprietary,www.adobe.com/products/dreamweaver,C++,NA
+Character Animator,Adobe Systems,Computer animation,Trialware,www.adobe.com/products/character-animator.html,C++/ Lua/ JavaScript,NA
+Premiere Pro,Adobe Systems,Video editing software,Trialware,www.adobe.com/products/premiere.html,NA,NA
+Photoshop Elements,Adobe Systems,Raster graphics editor,Trialware,www.adobe.com/products/photoshop-elements.html,NA,NA
+PhotoLine,Computerinsel GmbH,Raster graphics editor,Proprietary,www.pl32.com,NA,5
+Photoshop,Adobe Systems,Raster graphics editor,Trialware,adobe.com/photoshop,NA,26
+Ability Office,Ability Plus Software,Office suite,Proprietary,www.ability.com,NA,NA
+Quattro Pro,Corel Corporation,Spreadsheet,Proprietary,www.corel.com,NA,NA
+DADiSP,DSP Development Corporation,Technical computing,Proprietary,http://www.dadisp.com/,C/ C++/ SPL,NA
+Cornerstone,camLine GmbH,Statistics software,Proprietary,www.camline.com/en/products/cornerstone.html,C++,NA
+Statistica,Dell Software,Numerical analysis,Proprietary,statistica.io,NA,NA
+BCWipe,Jetico Inc.,Data erasure,Proprietary,www.jetico.com/wiping-bcwipe/,NA,NA
+Kali Linux,Offensive Security,Operating System,GNU General Public License,www.kali.org,NA,NA
+KDE Partition Manager,Andrius Štikonas,Partition editor,GNU General Public License,www.kde.org/applications/system/kdepartitionmanager/,C++ (Qt),NA
+MiniTool Partition Wizard,MiniTool Solution Ltd.,Utility software,Trialware,www.minitool.com,NA,NA
+AOMEI Partition Assistant,AOMEI Technology Co./ Ltd.,Utility software,Trialware,www.aomeitech.com,NA,11
+UML Designer,Obeo,UML tool,Eclipse Public License,http://www.umldesigner.org/,Java/ Sirius,NA
+BitTyrant,University of Washington/ University of Massachusetts Amherst,BitTorrent client,GNU General Public License,bittyrant.cs.washington.edu,Java,NA
+WinZip,Corel Corporation,File archiver,Shareware,winzip.com,NA,12
+Tapestry,Apache Software Foundation,Web Framework,Apache License 2.0,tapestry.apache.org,Java,NA
+Kepler,Community Development,Web framework,MIT,www.keplerproject.org,Lua,NA
+Lift,Lift Team,Web framework,Apache 2.0 License,liftweb.net,Scala,NA
+FuelPHP,FuelPHP developer team,Web application framework,MIT License,fuelphp.com,NA,NA
+Jamroom,The Jamroom Network,Content management framework/ Content management system/ Social software,Mozilla Public License,www.jamroom.net,PHP,NA
+Laravel,Taylor Otwell,Web framework,MIT License,laravel.com,PHP,NA
+Pop PHP Framework,Nick Sagona,Web framework,BSD License,popphp.org,PHP,NA
+Symfony,Symfony contributors/ SensioLabs,Web application framework,MIT License,symfony.com,PHP,NA
+TYPO3 Flow,Robert Lemke/ TYPO3 Association,Web application framework,GNU Lesser General Public License (LGPL),flow.typo3.org,PHP,NA
+Yii,Community Development,Web application framework,New BSD License,www.yiiframework.com,PHP,NA
+Python,Python Software Foundation,Programming language,Python Software Foundation License,python.org,NA,NA
+Application Express,Oracle Corporation,Oracle database development environment,Proprietary,apex.oracle.com,NA,NA
+Red Hat Linux,Red Hat,Operating System,GNU General Public License,www.redhat.com,NA,NA
+C#,Microsoft,Programming language,GNU General Public License,docs.microsoft.com/dotnet/csharp/language-reference/,NA,NA
+Fermi Linux,Fermilab,Linux distribution,GNU General Public License,www.scientificlinux.org/at-fermilab/,NA,NA
+Oracle Linux,Oracle Corporation,Linux distribution,GNU General Public License,www.oracle.com/linux,NA,NA
+Scientific Linux,Fermi National Accelerator Laboratory (Fermilab) / European Organization for Nuclear Research (CERN),Linux distribution,GNU General Public License,www.scientificlinux.org,NA,NA
+Red Hat Enterprise Linux (RHEL),Red Hat,Linux distribution,GNU General Public License,www.redhat.com/rhel,NA,NA
+Aurora SPARC Linux,Aurora SPARC Linux Project,Linux distribution,GNU General Public License,auroralinux.org,NA,NA
+MeeGo,Nokia/ Intel Linux Foundation,Linux distribution,GNU General Public License,meego.com,NA,NA
+Russian Fedora Remix,Russian Fedora Project,Linux distribution,GNU General Public License,russianfedora.pro,NA,NA
+Yellow Dog Linux (YDL),Fixstars Solutions,Linux distribution,GNU General Public License,www.yellowdoglinux.com,NA,NA
+SUSE Linux Enterprise Server (SLES),SUSE,Linux distribution,GNU General Public License,www.suse.com/products/server/,NA,NA
+OpenMandriva Lx,OpenMandriva Association and Cooker group,Linux distribution,GNU General Public License,openmandriva.org,NA,NA
+Vine Linux,VineCaves / Project Vine,Linux distribution,GNU General Public License,www.vinelinux.org,NA,NA
+Parsix,Alan Baghumian,Linux distribution,GNU General Public License,www.parsix.org,NA,1
+BackTrack,Mati Aharoni/ Devon Kearns/ Offensive Security,Linux distribution,GNU General Public License,www.backtrack-linux.org,NA,NA
+Ubuntu Kylin,National University of Defense Technology/ Canonical Ltd./ Ubuntu Kylin Community,Linux distribution,GNU General Public License,www.ubuntukylin.com,NA,1
+Lubuntu,Lubuntu Community and LXDE Foundation,Linux distribution,GNU General Public License,lubuntu.me,NA,NA
+Ubuntu MATE,Ubuntu MATE team,Linux distribution,GNU General Public License,ubuntu-mate.org,NA,NA
+Ubuntu Budgie,Ubuntu Budgie team,Linux distribution,GNU General Public License,ubuntubudgie.org,NA,NA
+Ubuntu GNOME,Community Development,Linux distribution,GNU General Public License,ubuntugnome.org,NA,NA
+Kubuntu,Community-driven/ previously Blue Systems/ Canonical,Linux distribution,GNU General Public License,www.kubuntu.org,NA,NA
+Gobuntu,Canonical Ltd. and community contributors,Linux distribution,GNU General Public License,www.ubuntu.com/products/whatisubuntu/gobuntu,NA,NA
+BackBox,Raffaele Forte and others,Linux distribution,GNU General Public License,www.backbox.org,NA,NA
+BlankOn,YPLI & Ubuntu-id,Linux distribution,GNU General Public License,www.blankonlinux.or.id,NA,NA
+Bodhi Linux,Bodhi Linux Team,Linux distribution,GNU General Public License,bodhilinux.com,NA,NA
+EasyPeasy,EasyPeasy community,Linux distribution,GNU General Public License,http://www.geteasypeasy.com,NA,NA
+elementary OS,Community Development,Linux distribution,GNU General Public License,elementary.io,NA,NA
+Kuki Linux,Community Development,Linux distribution,GNU General Public License,www.kuki.me (archive),NA,NA
+LinuxTLE,NECTEC,Linux distribution,GNU General Public License,www.opentle.org/,NA,NA
+Nova,University of Information Science,Linux distribution,GNU General Public License,humanos.uci.cu/nova/,NA,NA
+Netrunner,Blue Systems,Linux distribution,GNU General Public License,www.netrunner.com,NA,55
+Poseidon Linux,Poseidon Linux team,Linux distribution,GNU General Public License,www.poseidonlinux.org,NA,NA
+Sabily,Community Development,Linux distribution,GNU General Public License,www.sabily.org,NA,55
+Trisquel,The Trisquel Project and Sognus/ S.L.U.,Linux distribution,GNU General Public License,trisquel.info,NA,NA
+Bharat Operating System Solutions (BOSS Linux),C-DAC/NRCFOSS,Linux distribution,GNU General Public License,www.bosslinux.in,NA,19
+Canaima,CANTV / CNTI / CENTIDEL / Edelca / VIT / FUNDACITE / Free software community,Linux distribution,GNU General Public License,canaima.softwarelibre.gob.ve,NA,1
+Emdebian Grip,Embedded Debian Project,Linux distribution,GNU General Public License,www.emdebian.org,NA,NA
+Maemo,Nokia,Linux distribution,Open source,www.maemo.org,C/ C++/ Mono C#,NA
+Pardus,Scientific and Technological Research Council of Turkey (TÜBİTAK),Linux distribution,GNU General Public License,www.pardus.org.tr,NA,2
+Skolelinux,Skolelinux team,Linux distribution,GNU General Public License,skolelinux.org,NA,NA
+SparkyLinux,SparkyLinux team,Linux distribution,GNU General Public License,sparkylinux.org,NA,NA
+Vyatta,Vyatta,Linux distribution,GNU General Public License,www.vyatta.com,NA,NA
+antiX,Community Development,Linux distribution,GNU General Public License,antixlinux.com,NA,NA
+MX Linux,Community Development,Linux distribution,GNU General Public License,mxlinux.org,NA,NA
+Frugalware Linux,Community Development,Linux distribution,GNU General Public License,frugalware.org,NA,NA
+LinHES,Cecil Hugh Watson,Linux distribution,GNU General Public License,www.linhes.org,NA,NA
+KateOS,Damian Rakowski,Linux distribution,GNU General Public License,distrowatch.com/kate,NA,NA
+Platypux,Pierre-Aimé and Jacques-Olivier (The Platypux Brothers),Linux distribution,GNU General Public License,platypux.site.free.fr,NA,NA
+Slackware,Patrick Volkerding,Linux distribution,GNU General Public License,www.slackware.com,NA,NA
+Slamd64,Fred Emmott,Linux distribution,GNU General Public License,www.slamd64.com,NA,NA
+Alpine Linux,Alpine Linux development team,Linux distribution,GNU General Public License,alpinelinux.org,NA,NA
+CRUX,Per Lidén and CRUX community,Linux distribution,GNU General Public License,crux.nu,NA,NA
+Dragora,Matias A. Fonzo,Linux distribution,GNU General Public License,www.dragora.org,NA,NA
+MkLinux,OSF Research Institute/ Apple Computer/ MkLinux Developers Association/ volunteer community,Linux distribution,GNU General Public License,mklinux.org,NA,NA
+POI,Apache Software Foundation,API to access Microsoft Office formats,Apache License 2.0,https://poi.apache.org,NA,NA
+PagePlus,Serif Europe,Desktop publishing,Proprietary,www.serif.com/pageplus/,C++,NA
+JavaFX,Oracle Corporation,Application framework,End-user license agreement,www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html,NA,NA
+Java,Oracle Corporation,Programming language,GNU General Public License,oracle.com/java/,NA,NA
+Director,Adobe Systems,Computer animation,Trialware,adobe.com/products/director/,NA,NA
+Surround SCM,Seapine Software,Revision control,Proprietary,www.seapine.com,NA,NA
+LXQt,LXDE,Desktop environment,GNU General Public License,lxqt.org,C/ C++,NA
+Samba,Community Development,Network file system,GNU General Public License,www.samba.org,C/ Python,NA
+eric,Detlev Offenbach,Integrated Development Environment (IDE),GNU General Public License,eric-ide.python-projects.org,Python/ Qt/ PyQt,9
+Dragon NaturallySpeaking,Nuance Communications,Speech recognition,Proprietary,www.nuance.com,NA,8
+Sailfish OS,Jolla,Mobile Operating System,End-user license agreement,sailfishos.org,Qt/QML/ C++,
+COLLADA,Sony Computer Entertainment,3D computer graphics,GNU General Public License,khronos.org/collada/,,
+Vault,Autodesk,Data management tool,Proprietary,autodesk.com,NA,NA
+Aphelion,ADCIS French company,Image processing,Proprietary,www.adcis.net/en/Products/,C sharp/ C++,2
+Prime95,George Woltman,Mersenne prime finder/ System stability tester,GIMPS prize terms,mersenne.org,NA,NA
+Nessus,Tenable Network Security,Vulnerability scanner,Proprietary,www.tenable.com/products/nessus-vulnerability-scanner,NA,NA
+OpenCms,Alkacon Software and the OpenCms community,Content management system,GNU Lesser General Public License,www.opencms.org,NA,NA
+Acronis True Image,Acronis,Data protection and backup software,Trialware,https://www.acronis.com/en-in/,NA,13
+RootsMagic,RootsMagic/ Inc.,Genealogy software,Freeware,www.rootsmagic.com,NA,NA
+SAP R/3,SAP SE,ERP,Proprietary,www.sap.com,NA,NA
+OsCommerce,Harald Ponce de Leon,Webshop,GNU General Public License,oscommerce.com,PHP,NA
+Corel Painter,Corel Corporation,Raster graphics editor,Proprietary,www.painterartist.com,NA,NA
+wxWidgets,Julian Smart,Development library,wxWindows Licence,wxwidgets.org,C++,NA
+Nero Burning ROM,Nero AG,Optical disc authoring software,Proprietary,nero.com,NA,NA
+Diaspora,The Diaspora Foundation,Social network service,Affero General Public License,DiasporaFoundation.org,Ruby,NA
+Cinelerra,Heroine Virtual,Video editing software,GNU General Public License,heroinewarrior.com/cinelerra.php,C++,NA
+Kino,Dan Dennedy,Video editor,GNU General Public License,kinodv.org,C/ C++,NA
+VSDC Free Video Editor,Flash-Integro LLC,Non-linear editing system (NLE),Freeware,www.videosoftdev.com,NA,NA
+Media Composer,Avid,Video editing software,Trialware,avid.com/media-composer,NA,NA
+Edius,Community Development,Video editing software,Proprietary,www.grassvalley.com/products/subcat-editing_software,NA,NA
+Final Cut Pro X,Apple Inc.,Video editing software,Proprietary,www.apple.com/finalcutpro/,Cocoa,NA
+Xedio,EVS Broadcast Equipment,HD/SD modular application suite,Proprietary,www.evs.com,NA,NA
+DS,Nintendo,Handheld game console,Proprietary,www.nintendo.com/,NA,NA
+NewViews,Q.W.Page Associates Inc.,Accounting software,Proprietary,https://newviews.com,NA,NA
+Business One,SAP SE,Enterprise resource planning,Proprietary,sap.com/products/business-one.html,NA,27
+OxygenOS,OnePlus,Mobile Operating System,Open source,oneplus.net/3t/oxygenos,C++/ Java,NA
+Miranda IM,Miranda IM Project,Instant messaging client,GNU General Public License,www.miranda-im.org,C/ C++,NA
+Petrel,Schlumberger,Seismic to simulation,Proprietary,www.software.slb.com/products/petrel,NA,NA
+Postfix,Wietse Venema and many others,Mail transfer agent,IBM Public License,www.postfix.org,C,NA
+Spacewalk,Red Hat,Systems management,GNU General Public License,www.spacewalkproject.org,Java/ Perl and Python,17
+Visual FoxPro,Microsoft,Integrated development environment/ programming language,Proprietary,msdn.microsoft.com/vfoxpro,NA,NA
+Windchill,PTC,Product lifecycle management,Proprietary,www.ptc.com/product/windchill/,NA,10
+libjpeg,Independent JPEG Group,library,Custom BSD-like (free software),ijg.org,C,NA
+Mythbuntu,Community Development,Operating System,Open source,www.mythbuntu.org,NA,NA
+DAEMON Tools,Disc Soft Ltd,Virtual drive,Freemium,www.daemon-tools.cc,NA,38
+MagicISO,MagicISO/ Inc.,Optical disc authoring software,Shareware,www.magiciso.com,NA,15
+K-Lite Codec Pack,Codec Guide,Software bundle of audio codecs and video codecs,Freeware,codecguide.com,NA,NA
+Nero Multimedia Suite,Nero AG,Software suite,Trialware,www.nero.com,NA,23
+Connect360,Nullriver Software,Media Sharing,Shareware,http://www.nullriver.com/,NA,NA
+PlayOn,PlayOn,digital media server,Proprietary,www.playon.tv,NA,NA
+EncodeHD,Dan Cunningham,Video encoding,Proprietary,http://dcunningham.net/,NA,NA
+PSPVC,Community Development,Video Converter,Freeware,http://pspvc.nswardh.com/index.php,NA,NA
+rebox.NET,Community Development,Video Converter,Freeware,https://www.videohelp.com/software/rebox.NET,NA,NA
+Serviio,Petr Nejedly,Media server/ Media player,Proprietary,www.serviio.org,NA,NA
+Submerge,Bitfield AB,Subtitle editor,Proprietary,http://www.bitfield.se/submerge/,NA,NA
+TVersity,TVersity/ Inc.,UPnP media server,Proprietary,http://www.tversity.com/,NA,NA
+Net Transport,Xi-soft,Downloading manager,Freeware,http://www.xi-soft.com/default.htm,NA,NA
+doubleTwist,doubleTwist Corporation,Media player,Proprietary,www.doubletwist.com,NA,NA
+Xvid Codec,Community Development,Video codec,GNU General Public License,www.xvid.com,NA,NA
+Subtitle Edit,Nikolaj Lynge Olsson,Subtitle editor,GNU General Public License,nikse.dk/SubtitleEdit/,NA,29
+PotPlayer,Kakao,Media player,Freeware,potplayer.daum.net,NA,14
+Codec Tweak Tool,Community Development,Video codec,Freeware,http://www.free-codecs.com/download/codec_tweak_tool.htm,NA,NA
+ProgDVB,Prog,Watch digital TV channels,Freeware/Shareware,www.progdvb.com,NA,NA
+Servlet,Oracle Corporation,Java program,Open source,oracle.com,NA,NA

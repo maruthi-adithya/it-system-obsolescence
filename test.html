@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>IT System Obsolescence</title>
+
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+
+<style>
+body {
+    background-image: linear-gradient(#fff, hsla(0, 0%, 100%, 0));
+    background-size: 100% 900px;
+    background-repeat: no-repeat;
+    font-size: 130.5%;
+    color: #6f7c82;
+    font-family: Whitney SSm A, Whitney SSm B, Helvetica, Arial;
+    font-weight: 400;
+    font-style: normal;
+    overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.first th {
+    background-color: #e8eddb !important;
+    color: #050101 !important;
+}
+.second th {
+    background-color: #f2e2ea !important;
+    color: #050000 !important;
+}
+.third th {
+    background-color: #f2edb5 !important;
+    color: #020000 !important;
+}
+.backgroundGreen {
+    background: #b9f532;
+}
+.backgroundRed {
+    background: #f58466;
+}
+.divtoBlinkObselete,
+.divtoBlink {
+    -webkit-transition: background 1.0s ease-in-out;
+    -ms-transition: background 1.0s ease-in-out;
+    transition: background 1.0s ease-in-out;
+}
+</style>
+ </head>
+ <body>
+   <div class="container">
+       <div class="table-responsive">
+           <h1 align="center">IT System Obsolescence</h1>
+           <br />
+           <div align="center">
+               <br />
+               <div style="margin:0 auto;width:60%">
+                   <div style="margin-bottom:20px">
+                       <select id="systems" class="form-control">
+           <option>Choose a System</option>
+       </select>
+                   </div>
+                   <div style="margin-bottom:20px">
+                       <select id="versions" class="form-control">
+            <option>Choose a Version</option>
+        </select>
+                   </div>
+               </div>
+               <br>
+               <br><br><br>
+
+               <div id="version_table">
+               </div>
+               <div id="system_table">
+               </div>
+
+               <div id="comp_table">
+               </div>
+
+           </div>
+
+       </div>
+   </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js"></script>
+  <script>
+  $(document).ready(function() {
+      $('#systems').select2();
+      $('#versions').select2();
+
+      // Save reference, only look this item up once, then save
+      var backgroundInterval = setInterval(function() {
+          var $div2blink = $(".divtoBlink");
+          var $div2blinkObs = $(".divtoBlinkObselete");
+          if ($div2blink) {
+              $div2blink.toggleClass("backgroundGreen");
+          }
+          if ($div2blinkObs) {
+              $div2blinkObs.toggleClass("backgroundRed");
+          }
+
+      }, 1500);
+
+      var systems = [];
+      $.ajax({
+          url: "systems.csv",
+          dataType: "text",
+          success: function(data) {
+              var system_data = data.split(/\r?\n|\r/);
+              for (var count = 0; count < system_data.length; count++) {
+                  var cell_data = system_data[count].split(",");
+                  for (var cell_count = 0; cell_count < cell_data.length; cell_count++) {
+                      if (count === 0) {
+                          if (cell_count == 0) {
+
+                          }
+                      } else {
+                          if (cell_count == 0) {
+
+
+
+                              systems.push(cell_data[cell_count]);
+                          }
+
+                      }
+                  }
+              }
+              var select = document.getElementById("systems");
+
+              for (var i = 0; i < systems.length; i++) {
+                  var opt = systems[i];
+                  var el = document.createElement("option");
+                  el.textContent = opt;
+                  el.value = opt;
+                  select.appendChild(el);
+              }
+
+
+          }
+
+
+      });
+
+      $('#systems').change(function() {
+          var versions = [];
+          $('#system_table').empty();
+          $('#version_table').empty();
+          $('#comp_table').empty();
+
+          var selected = $('#systems option:selected').text();
+          $.ajax({
+              url: "versions.csv",
+              dataType: "text",
+              success: function(data) {
+                  var system_data = data.split(/\r?\n|\r/);
+                  for (var count = 0; count < system_data.length; count++) {
+                      var cell_data = system_data[count].split(",");
+                      for (var cell_count = 0; cell_count < cell_data.length; cell_count++) {
+                          if (count === 0) {
+                              if (cell_count == 0) {
+
+                              }
+                          } else {
+
+                              if (cell_count == 1) {
+                                  if (selected == cell_data[0]) {
+                                      versions.push(cell_data[cell_count]);
+                                  }
+
+                              }
+
+                          }
+                      }
+
+                  }
+
+                  $('#versions').empty();
+                  var select = document.getElementById("versions");
+                  var defaultElement = document.createElement("option");
+                  defaultElement.textContent = "Choose a Version";
+                  defaultElement.value = "Choose a Version";
+                  select.appendChild(defaultElement);
+                  for (var i = 0; i < versions.length; i++) {
+                      var opt = versions[i];
+                      var el = document.createElement("option");
+                      el.textContent = opt;
+                      el.value = opt;
+                      select.appendChild(el);
+                  }
+
+
+              }
+
+
+          });
+
+
+
+
+      });
+
+      $('#versions').change(function() {
+          var systype;
+
+          var selectedSystem = $('#systems option:selected').text();
+          var selectedVersion = $('#versions option:selected').text();
+          $.ajax({
+              url: "versions.csv",
+              dataType: "text",
+              success: function(data) {
+                  var system_data = data.split(/\r?\n|\r/);
+                  var table_data = '<h3>Version Information</h3><table class="table table-bordered table-striped first">';
+                  for (var count = 0; count < system_data.length; count++) {
+                      var cell_data = system_data[count].split(",");
+                      table_data += '<tr>';
+                      for (var cell_count = 0; cell_count < cell_data.length; cell_count++) {
+                          if (count === 0) {
+                              if (cell_count > 0) {
+
+                                  table_data += '<th>' + cell_data[cell_count] + '</th>';
+                              }
+                          } else {
+
+                              if (cell_count > 0) {
+                                  if (selectedSystem == cell_data[0]) {
+                                      if (selectedVersion == cell_data[1]) {
+                                          if (cell_data[6] == "Yes") {
+                                              table_data += '<td class = "divtoBlinkObselete">' + cell_data[cell_count] + '</td>';
+                                          } else {
+                                              table_data += '<td class = "divtoBlink">' + cell_data[cell_count] + '</td>';
+                                          }
+
+                                      } else {
+                                          table_data += '<td>' + cell_data[cell_count] + '</td>';
+
+                                      }
+
+                                  }
+
+
+                                  //  table_data += '<td>'+cell_data[cell_count]+'</td>';
+
+                              }
+
+                          }
+                      }
+                      table_data += '</tr>';
+                  }
+                  table_data += '</table>';
+                  $('#version_table').html(table_data);
+
+
+
+              }
+
+
+          });
+
+          $.ajax({
+              url: "systems.csv",
+              dataType: "text",
+              success: function(data) {
+                  var system_data = data.split(/\r?\n|\r/);
+                  var table_data = '<h3>System Details</h3><table class="table table-bordered table-striped second">';
+                  for (var count = 0; count < system_data.length; count++) {
+                      var cell_data = system_data[count].split(",");
+                      table_data += '<tr>';
+                      for (var cell_count = 0; cell_count < cell_data.length; cell_count++) {
+                          if (count === 0) {
+                              if (cell_count > 0) {
+
+                                  table_data += '<th>' + cell_data[cell_count] + '</th>';
+                              }
+                          } else {
+
+                              if (cell_count > 0) {
+                                  if (selectedSystem == cell_data[0]) {
+
+                                      table_data += '<td>' + cell_data[cell_count] + '</td>';
+                                      systype = cell_data[2];
+                                  }
+
+
+                                  //  table_data += '<td>'+cell_data[cell_count]+'</td>';
+
+                              }
+
+                          }
+                      }
+                      table_data += '</tr>';
+                  }
+                  table_data += '</table>';
+                  $('#system_table').html(table_data);
+
+
+
+              }
+
+
+          });
+
+          $.ajax({
+              url: "systems.csv",
+              dataType: "text",
+              success: function(data) {
+                  var system_data = data.split(/\r?\n|\r/);
+                  var table_data = '<h3>Alternate Systems</h3><table class="table table-bordered table-striped third">';
+                  var dataCount = 0;
+                  for (var count = 0; count < system_data.length; count++) {
+                      var cell_data = system_data[count].split(",");
+                      table_data += '<tr>';
+                      for (var cell_count = 0; cell_count < cell_data.length; cell_count++) {
+                          if (count === 0) {
+                              if (cell_count != 2) {
+
+                                  table_data += '<th class="success">' + cell_data[cell_count] + '</th>';
+                              }
+                          } else {
+
+                              if (cell_count != 2) {
+                                  if (systype.indexOf(cell_data[2])!==-1 && selectedSystem != cell_data[0]) {
+                                      dataCount++;
+                                      table_data += '<td>' + cell_data[cell_count] + '</td>';
+
+                                  }
+
+
+                                  //  table_data += '<td>'+cell_data[cell_count]+'</td>';
+
+                              }
+
+                          }
+                      }
+                      table_data += '</tr>';
+                  }
+                  table_data += '</table></div>';
+                  if (dataCount > 0)
+                      $('#comp_table').html(table_data);
+
+
+
+              }
+
+
+          });
+
+
+
+
+      });
+
+
+
+
+  });
+
+
+  </script>
+ </body>
+</html>

@@ -402,21 +402,21 @@ Elasticsearch,5,NA,NA,NA,29-Nov-2016,No
 Elasticsearch,5.1,NA,NA,NA,12-Jan-2017,No
 Elasticsearch,5.2,NA,NA,NA,28-Feb-2017,No
 Elasticsearch,5.3,NA,NA,NA,01-Jun-2017,No
-Elasticsearch,5.4,NA,NA,NA,27-Jun-2017,No,,,,,,,,,,,,,,,,Version,Release date
-Elasticsearch,5.5,NA,NA,NA,06-Jul-2017,No,,,,,,,,,,,,,,,,1,15 June 1993
-Elasticsearch,5.6,NA,NA,NA,10-Oct-2017,No,,,,,,,,,,,,,,,,2,September 1994
-Elasticsearch,6,NA,NA,NA,14-Nov-2017,No,,,,,,,,,,,,,,,,3,November 1996
-Office,1,NA,NA,NA,19-Nov-1990,Yes,,,,,,,,,,,,,,,,4,April 1999
-Office,1.5,NA,NA,NA,04-Mar-1991,Yes,,,,,,,,,,,,,,,,5,May 2001
-Office,1.6,NA,NA,NA,08-Jul-1991,Yes,,,,,,,,,,,,,,,,6,July 2003
-Office,3,NA,NA,NA,30-Aug-1992,Yes,,,,,,,,,,,,,,,,7,January 2005
-Office,4,NA,NA,NA,17-Jan-1994,Yes,,,,,,,,,,,,,,,,8,November 2006
+Elasticsearch,5.4,NA,NA,NA,27-Jun-2017,No
+Elasticsearch,5.5,NA,NA,NA,06-Jul-2017,No
+Elasticsearch,5.6,NA,NA,NA,10-Oct-2017,No
+Elasticsearch,6,NA,NA,NA,14-Nov-2017,No
+Office,1,NA,NA,NA,19-Nov-1990,Yes
+Office,1.5,NA,NA,NA,04-Mar-1991,Yes
+Office,1.6,NA,NA,NA,08-Jul-1991,Yes
+Office,3,NA,NA,NA,30-Aug-1992,Yes
+Office,4,NA,NA,NA,17-Jan-1994,Yes
 Office,4.3,NA,NA,NA,02-Jun-1994,Yes
-Office,NT 4.2,NA,NA,NA,03-Jul-1994,Yes,,,,,,,,,,,,,,,,9,"June 2, 2008"
+Office,NT 4.2,NA,NA,NA,03-Jul-1994,Yes
 Office,7,NA,NA,NA,24-Aug-1995,Yes
-Office,8,NA,NA,NA,19-Nov-1996,Yes,,,,,,,,,,,,,,,,10,"November 15, 2010.  "
-Office,8.5,NA,NA,NA,20-Jun-1997,Yes,,,,,,,,,,,,,,,,11,"October 15, 2012. "
-Office,9,NA,NA,NA,07-Jun-1999,Yes,,,,,,,,,,,,,,,,DC (2015.0),"April 6, 2015. "
+Office,8,NA,NA,NA,19-Nov-1996,Yes
+Office,8.5,NA,NA,NA,20-Jun-1997,Yes
+Office,9,NA,NA,NA,07-Jun-1999,Yes
 Office,10,NA,NA,NA,31-May-2001,Yes
 Office,11,NA,NA,NA,21-Oct-2003,Yes
 Office,12,NA,NA,NA,30-Jan-2007,Yes
